@@ -366,7 +366,7 @@
 00A7-: Sniff[END]
 00A7-E:
 00A8-: Monkey Tricks[END]
-00A8-E:
+00A8-E:trucos mono [END]
 00A9-: Consider[END]
 00A9-E:
 00AA-: Run[END]
@@ -527,9 +527,9 @@
 00F2-: [11 FF]'s speed decreased by [10 FF]![END]
 00F2-E:
 00F3-: [11 FF]'s IQ increased by [10 FF]![END]
-00F3-E:
+00F3-E: ¡El CI de [11 FF] aumento por [10 FF]![END]
 00F4-: [11 FF]'s IQ decreased by [10 FF]![END]
-00F4-E:
+00F4-E:¡El CI de [11 FF] disminuyó por [10 FF]![END]
 00F5-: PSI MESSAGES[END]
 00F5-E:
 00F6-: [END]
