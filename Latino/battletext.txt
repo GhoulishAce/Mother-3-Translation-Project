@@ -519,21 +519,21 @@
 00EE-: [11 FF]'s offense decreased by [10 FF]![END]
 00EE-E:
 00EF-: [11 FF]'s defense increased by [10 FF]![END]
-00EF-E:
+00EF-E:¡la defensa de [11 FF] aumento por [10 FF]![END]
 00F0-: [11 FF]'s defense decreased by [10 FF]![END]
-00F0-E:
+00F0-E:¡la defensa de [11 FF] disminuyo por [10 FF]![END]
 00F1-: [11 FF]'s speed increased by [10 FF]![END]
-00F1-E:
+00F1-E: ¡la velocidad de [11 FF] amumento por [10 FF]![END]
 00F2-: [11 FF]'s speed decreased by [10 FF]![END]
-00F2-E:
+00F2-E: ¡la velocidad de [11 FF] disminuyo por [10 FF]![END]
 00F3-: [11 FF]'s IQ increased by [10 FF]![END]
-00F3-E:
+00F3-E: ¡El CI de [11 FF] aumento por [10 FF]![END]
 00F4-: [11 FF]'s IQ decreased by [10 FF]![END]
-00F4-E:
+00F4-E: ¡El CI de [11 FF] diminuyó por [10 FF]![END]
 00F5-: PSI MESSAGES[END]
-00F5-E:
+00F5-E: MENSAJES PSI
 00F6-: [END]
-00F6-E:
+00F6-E:[END]
 00F7-: [11 FF] tried PK Fire [ALPHA]![END]
 00F7-E:
 00F8-: [11 FF] tried PK Fire [BETA]![END]
@@ -739,7 +739,7 @@
 0156-: [12 FF] felt much better![END]
 0156-E:
 0157-: [12 FF] was revived![END]
-0157-E:
+0157-E: [12 FF] revivio!
 0158-: [11 FF] tried to use [13 EF][10 FF], but there was no one to use [16 EF] on...[END]
 0158-E:
 0159-: But it didn't work.[END]
@@ -4212,7 +4212,7 @@
 0641-: @Thank you[32 FF] for playing along with me all the[BREAK]  way to the end like this.[33 FF][WAIT]@I'm actually a pretty nice guy, wouldn't you[BREAK]  say?[WAIT]  Aha[32 FF] ahaha.[33 FF][END]
 0641-E:
 0642-: @I'll never die.[33 FF][WAIT]@I'll never die,[32 FF] nor will I ever be beaten...[33 FF][WAIT]  ...but it appears my machine has run out of[BREAK]  energy for the moment.[33 FF][WAIT]@Ahaha.[32 FF][BREAK]@[15 FF]...[33 FF][WAIT]  You haven't won, just so you know.[33 FF][END]
-0642-E:
+0642-E: @nunca moriré. [33 FF][WAIT]@nunca moriré,[32 FF] ni seré vencido...[33 FF][WAIT]  ...pero parece que mi máquina se le acabo [BREAK] su energia por el momento.[33 FF][WAIT]@ajaja.[32 FF][BREAK]@[15 FF]...[33 FF][WAIT]  tu no has ganado, para que sepas.[33 FF][END]
 0643-: @I'm going to duck inside this <Absolutely Safe[BREAK]  Capsule> for the time being.[33 FF][WAIT]@When I'm inside, no attack will have any[BREAK]  effect on me whatsoever.[33 FF][WAIT]@I'm sure you're thinking to yourself, <Yeah,[BREAK]  right. There's no such thing as "absolutely"...>[32 FF][WAIT]@But there is such a thing... And it's this![WAIT]  The Absolutely Safe Capsule I tricked Dr.[BREAK]  Andonuts and the Mr. Saturns into making for[BREAK]  me![31 FF][32 FF][WAIT]  Me![31 FF] ME![32 FF] All for me![31 FF][BREAK]  *cough*[31 FF] *cough*[33 FF][END]
 0643-E:
 0644-: Porky sealed himself inside the Absolutely Safe Capsule.[33 FF][END]
@@ -4348,6 +4348,6 @@
 0681-: SOUND MONITOR TEXT[END]
 0681-E:
 0682-: ???[END]
-0682-E:
+0682-E: ???[END]
 0683-: [END]
-0683-E:
+0683-E:[END]
